@@ -1,0 +1,1 @@
+;; Eclipse Protocol - Synthetic
